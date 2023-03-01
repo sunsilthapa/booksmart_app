@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423410958162",
+    "project_id": "booksmart-a83d3",
+    "storage_bucket": "booksmart-a83d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423410958162:android:007f3422335579a62d448b",
+        "android_client_info": {
+          "package_name": "com.example.booksmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423410958162-40sb98sslhmeoc8fc98omuobbv44f755.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkkH9qNjODK9CHMAbs5p8eDzp_AAUksa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423410958162-40sb98sslhmeoc8fc98omuobbv44f755.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
